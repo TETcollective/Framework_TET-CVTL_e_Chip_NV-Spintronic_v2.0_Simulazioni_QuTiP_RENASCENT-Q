@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "Se usi questo lavoro, per favore citaci come indicato sotto."
+title: "Framework TET-CVTL e Chip NV-Spintronic v2.0: Stabilizzazione Negentropica Retrocausale tramite Braiding Anyonico e termine β = 1.61803^{-2}. Simulazioni QuTiP del Protocollo RENASCENT-Q"
+authors:
+  - family-names: "Soliman"
+    given-names: "Simon"
+    orcid: "0009-0002-3533-3772"
+    affiliation: "TET Collective, Roma, Italy"
+    website: "https://tetcollective.org"
+date-released: "2026-04-09"
+version: "v2.0"
+doi: ""  # Inserisci il DOI di Zenodo dopo aver creato la release
+repository-code: "https://github.com/TETcollective/Framework_TET-CVTL_e_Chip_NV-Spintronic_v2.0_Simulazioni_QuTiP_RENASCENT-Q"
+url: "https://tetcollective.org"
+license: "CC-BY-NC-ND-4.0"
+keywords:
+  - quantum
+  - qutip
+  - spintronics
+  - orch-or
+  - retrocausality
+  - negentropy
+  - anyon-braiding
+  - two-state-vector-formalism
+  - nv-center
+  - tet-cvTL
+  - renascent-q
+abstract: |
+  All’interno del Framework TET-CVTL, questo lavoro presenta un’estensione retrocausale negentropica della master equation Floquet-Lindblad. 
+  Introduce un termine custom con β = 1.61803^{-2} ≈ 0.382 per stabilizzazione coerente a temperatura ambiente tramite simulazioni QuTiP su sistemi proxy a 2 e 4 qubit.
+type: "article"
