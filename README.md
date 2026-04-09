@@ -33,8 +33,8 @@ I risultati rafforzano la fattibilità di reti anyoniche stabili all’interno d
 
 - `Framework_TET_CVTL_e_Chip_NV_Spintronic_v2_0___Simulazioni_QuTiP_del_Protocollo_RENASCENT_Q.pdf` → Documento principale (89 pagine)
 - File sorgente LaTeX (`.tex`, `.bib`)
-- `code/` → Tutti gli script Python per le simulazioni QuTiP
-- `images/` → Figure e grafici delle simulazioni
+- Tutti gli script Python per le simulazioni QuTiP
+- Figure e grafici delle simulazioni
 - `CITATION.cff`, `LICENSE.md`, `requirements.txt`
 
 ---
