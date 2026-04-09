@@ -1,0 +1,116 @@
+# ====================
+# LaTeX auxiliary files
+# ====================
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+*.idx
+*.ilg
+*.ind
+*.glo
+*.gls
+*.acn
+*.acr
+*.alg
+*.glg
+*.ist
+*.nav
+*.snm
+*.vrb
+*.dvi
+*.pdfsync
+*.fdb_latexmk
+*.fmt
+*.fot
+*.cb
+*.cb2
+*.lb
+
+# LaTeX build directories (common with latexmk, arara, etc.)
+_build/
+auto/
+*.synctex(busy)
+
+# ====================
+# Python / QuTiP specific
+# ====================
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+.env
+.venv
+venv.bak/
+env.bak/
+
+# QuTiP / scientific computing temporary files
+*.qutip
+*.dat
+*.pickle
+*.pkl
+*.npy
+*.npz
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Simulation output (large data files - keep only if small)
+# Uncomment if you want to ignore results
+# results/
+# figures/*.png
+# figures/*.pdf   (keep only source .tex/.py that generate them)
+
+# Specific to this project (optional - adjust as needed)
+code/__pycache__/
+images/generated/
